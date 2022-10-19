@@ -1,0 +1,26 @@
+body {
+    background-color: #f2b443;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.home-image {
+    width: 500px;
+    height: auto;
+}
+
+h1,
+p,
+a:hover,
+a:active {
+    color: #59010F;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 22px;
+    font-weight: 800;
+}
